@@ -1,0 +1,1 @@
+![portion of mandelbrot set in greyscale](mandel.png)
